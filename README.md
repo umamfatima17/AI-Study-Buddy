@@ -36,11 +36,13 @@ It gives responses based on keywords and can also tell the current time and date
 2. Open the project folder in VS Code.
 3. Open the terminal.
 4. Run:
+'''bash
     python  study_buddy.py
+'''
 5. Enter your name and start chatting with Study Buddy.
 
 ## Example
-
+'''text
 Welcome to Study Buddy! Enter your name: Umam
 
 Good Evening, Umam!
@@ -48,7 +50,7 @@ Good Evening, Umam!
 Umam: study tip
 
 Study Buddy: Try studying for 25 minutes and then take a 5-minute break.
-
+'''
 
 ## What I Learned
 
